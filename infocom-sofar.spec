@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 
 %description
-itting in a cramped theatre, irritated that your partner apparently
+Sitting in a cramped theatre, irritated that your partner apparently
 hasn't turned up, you are strangely intrigued by a current of air. It
 will lead you to a place very different from your own familiar
 surroundings...

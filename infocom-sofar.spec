@@ -21,7 +21,16 @@ will lead you to a place very different from your own familiar
 surroundings...
 
 XYZZY Awards 1996: Best Game, Best Writing, Best Puzzles, Best
-Individual Puzzle
+Individual Puzzle.
+
+%description -l pl
+Gdy siedzisz w zat³oczonym teatrze i z³o¶cisz siê na swojego partnera,
+który najwyra¼niej siê nie pojawi³ dziwnie zaintrygowa³ ciê pr±d
+powietrza. Doprowadzi ciê on do miejsca mocno ró¿ni±cego siê od
+twojego zwyk³ego otoczenia...
+
+Nagrody XYZZY 1996: za najlepsz± grê, za najlepszy tekst, za najlepsze
+³amig³ówki, za najlepsz± indywidualn± ³amig³ówkê.
 
 %prep
 

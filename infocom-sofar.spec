@@ -1,16 +1,15 @@
 %define		_name		SoFar
-
 Summary:	Infocom text game - So Far
 Summary(pl):	Tekstówka Infocomu - So Far
 Name:		infocom-sofar
 Version:	961218
-Release:	1
+Release:	2
 License:	free
 Group:		Applications/Games
 Source0:	ftp://ftp.ifarchive.org/if-archive/games/zcode/%{_name}.z8
 # Source0-md5:	9ed2128ac97285ddf44650178629f477
 URL:		http://www.ifarchive.org/
-Requires:	frotz
+Requires:	zcode-wrapper
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 

@@ -1,6 +1,6 @@
 %define		_name		SoFar
 Summary:	Infocom text game - So Far
-Summary(pl):	Tekstówka Infocomu - So Far
+Summary(pl.UTF-8):   TekstÃ³wka Infocomu - So Far
 Name:		infocom-sofar
 Version:	961218
 Release:	2
@@ -22,14 +22,14 @@ surroundings...
 XYZZY Awards 1996: Best Game, Best Writing, Best Puzzles, Best
 Individual Puzzle.
 
-%description -l pl
-Gdy siedzisz w zat³oczonym teatrze i z³o¶cisz siê na swojego partnera,
-który najwyra¼niej siê nie pojawi³ dziwnie zaintrygowa³ ciê pr±d
-powietrza. Doprowadzi ciê on do miejsca mocno ró¿ni±cego siê od
-twojego zwyk³ego otoczenia...
+%description -l pl.UTF-8
+Gdy siedzisz w zatÅ‚oczonym teatrze i zÅ‚oÅ›cisz siÄ™ na swojego partnera,
+ktÃ³ry najwyraÅºniej siÄ™ nie pojawiÅ‚ dziwnie zaintrygowaÅ‚ ciÄ™ prÄ…d
+powietrza. Doprowadzi ciÄ™ on do miejsca mocno rÃ³Å¼niÄ…cego siÄ™ od
+twojego zwykÅ‚ego otoczenia...
 
-Nagrody XYZZY 1996: za najlepsz± grê, za najlepszy tekst, za najlepsze
-³amig³ówki, za najlepsz± indywidualn± ³amig³ówkê.
+Nagrody XYZZY 1996: za najlepszÄ… grÄ™, za najlepszy tekst, za najlepsze
+Å‚amigÅ‚Ã³wki, za najlepszÄ… indywidualnÄ… Å‚amigÅ‚Ã³wkÄ™.
 
 %prep
 

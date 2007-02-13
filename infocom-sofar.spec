@@ -1,6 +1,6 @@
 %define		_name		SoFar
 Summary:	Infocom text game - So Far
-Summary(pl.UTF-8):   Tekstówka Infocomu - So Far
+Summary(pl.UTF-8):	Tekstówka Infocomu - So Far
 Name:		infocom-sofar
 Version:	961218
 Release:	2
